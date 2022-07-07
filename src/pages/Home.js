@@ -9,6 +9,7 @@ export default function Home() {
         <Navigation />
         <h2>Awesome AWSM.css !</h2>
         <h3>Semantic css framework</h3>
+        <p>Adding styled-components and sass just for fun !</p>
         <p>
           <a
             href="https://igoradamenko.github.io/awsm.css/index.html"
