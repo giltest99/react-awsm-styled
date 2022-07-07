@@ -9,7 +9,6 @@ const Button = styled.button`
 `;
 
 /* Button primary width variables and props */
-
 const bgColor = "darkSlateBlue";
 const bgColorHover = "#5246a0";
 const fgColor = "white";

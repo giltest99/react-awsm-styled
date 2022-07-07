@@ -58,7 +58,7 @@ export default function Typos() {
         <section>
           <h3>Toggle task status : useState & styled-components</h3>
           <ParaStatus completed={toggle}>{msg}</ParaStatus>
-          <button onClick={toggleTask}>Toggle</button>
+          <button onClick={toggleTask}>Toggle message</button>
         </section>
       </main>
     </>
