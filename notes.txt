@@ -1,0 +1,19 @@
+# Create new project
+yarn create react-app [my-app]
+
+# Add awsm.css 
+Copy awsm.css -> index.css
+
+# Add browser-router-dom
+yarn add react-router-dom
+
+# Add sass 
+yarn add sass
+
+# Add Styled components 
+yarn add styled-components
+
+# Add Axios
+yarn add axios
+
+
